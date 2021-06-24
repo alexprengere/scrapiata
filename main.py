@@ -29,12 +29,13 @@ def main():
     import argparse
 
     parser = argparse.ArgumentParser()
+    parser.add_argument("-o", "--output", default="output.csv")
     parser.add_argument("--min-page-number", type=int, default=MIN_PAGE_NB)
     parser.add_argument("--max-page-number", type=int, default=MAX_PAGE_NB)
     args = parser.parse_args()
 
-    with open("output.csv", "x") as out:
-        csv_writer = csv.writer(out, delimiter=",")
+    with open(args.output, "x") as out:
+        csv_writer = csv.writer(out, lineterminator="\n")
 
         for page_nb in range(args.min_page_number, 1 + args.max_page_number):
             soup = BeautifulSoup(get_page_text(page_nb), "html.parser")
