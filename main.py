@@ -6,7 +6,10 @@ import httpx
 from bs4 import BeautifulSoup
 
 
-URL = "https://www.iata.org/en/publications/directories/code-search/?airport.page={}"
+URL = (
+    "https://www.iata.org/en/publications/directories/code-search/"
+    "?airport.page={}&airport.search="
+)
 MIN_PAGE_NB = 1
 MAX_PAGE_NB = 10_000  # currently it should stop around 1829 pages
 MAX_RETRIES = 100
