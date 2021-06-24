@@ -53,8 +53,8 @@ def main():
             for row in airports_table_rows:
                 csv_writer.writerow(col.text for col in row.find_all("td"))
 
-            # Sleeping for a random time <= 1s
-            time.sleep(random.random())
+            # Sleeping for a random time in 100-500ms
+            time.sleep(random.uniform(0.1, 0.5))
         else:
             # Never broke means we did not reach the end of data
             print(f"Reached the max page #{args.max_page_number}, increase it?")
