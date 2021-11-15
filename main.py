@@ -45,8 +45,11 @@ def main():
 
             # Airports table is the second table
             # Airports table rows start with a header that we skip
-            airports_table = soup.find_all("table")[1]
-            airports_table_rows = airports_table.find_all("tr")[1:]
+            try:
+                airports_table = soup.find_all("table")[1]
+                airports_table_rows = airports_table.find_all("tr")[1:]
+            except IndexError:
+                continue
 
             print(f"Got page #{page_nb}, found {len(airports_table_rows)} elements")
             if not airports_table_rows:  # No rows means the page number is now too big
