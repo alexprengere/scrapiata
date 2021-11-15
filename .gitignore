@@ -1,3 +1,4 @@
 *.pyc
 *.sw[po]
 .env
+optd_por_public.csv
