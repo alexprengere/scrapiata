@@ -1,3 +1,2 @@
 httpx
 BeautifulSoup4
-neobase
