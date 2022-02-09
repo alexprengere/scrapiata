@@ -57,7 +57,7 @@ def main():
                 break
 
             for row in airports_table_rows:
-                csv_writer.writerow(col.text for col in row.find_all("td"))
+                csv_writer.writerow(col.text for col in reversed(row.find_all("td")))
 
             # Sleeping for a random time in 100-500ms
             time.sleep(random.uniform(0.1, 0.5))
