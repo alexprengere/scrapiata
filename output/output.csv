@@ -1673,7 +1673,7 @@ CYM,Sea Plane Base,Chatham
 CYO,Vilo Acuna Intl,Cayo Largo del Sur
 CYP,Calbayog,Calbayog
 CYR,Laguna de los Patos,Colonia del Sacramento
-CYS,Regional,Cheyenne
+CYS,Metropolitan Area,Cheyenne
 CYT,Yakataga,Yakataga
 CYU,Cuyo,Cuyo
 CYW,Capt. Rogelio Castillo,Celaya
@@ -1717,7 +1717,7 @@ DAT,Beijiazao,Datong
 DAU,Daru,Daru
 DAV,Enrique Malek Intl,David
 DAX,Heshi,Dazhou
-DAY,James M. Cox Intl,Dayton
+DAY,Metropolitan Area,Dayton
 DAZ,Darwaz,Darwaz
 DBA,Dalbandin,Dalbandin
 DBB,Al Alamain Intl,Dabah
@@ -1892,7 +1892,7 @@ DOH,Hamad International,Doha
 DOI,Doini Island,Doini Island
 DOK,International,Donetsk
 DOL,St Gatien,Deauville
-DOM,Melville Hall,Dominica
+DOM,Metropolitan Area,Dominica
 DON,Dos Lagunas,Dos Lagunas
 DOO,Dorobisoro,Dorobisoro
 DOP,Dolpa,Dolpa
@@ -2015,7 +2015,7 @@ EAE,Siwo,Emae Island
 EAL,Elenak,Elenak
 EAM,Nejran,Nejran
 EAN,Phifer Airfield,Wheatland
-EAP,Metropolitan Area,Mulhouse/Basel
+EAP,Metropolitan Area,Basel/Mulhouse
 EAR,Regional,Kearney
 EAS,Airport,San Sebastian
 EAT,Pangborn Memorial,Wenatchee
@@ -2263,7 +2263,7 @@ EYL,Yelimane,Yelimane
 EYP,El Alcaravan,Yopal
 EYR,Municipal,Yerington
 EYS,Eliye Springs,Eliye Springs
-EYW,Metropolitan Area,Key West
+EYW,International,Key West
 EZE,Ministro Pistarini,Buenos Aires
 EZS,Elazig,Elazig
 EZV,Berezovo,Berezovo
@@ -2868,7 +2868,7 @@ HAI,Municipal Dr. Haines,Three Rivers
 HAJ,Airport,Hannover
 HAK,Meilan Intl,Haikou
 HAL,Halali,Halali
-HAM,Hamburg Airport,Hamburg
+HAM,Metropolitan Area,Hamburg
 HAN,Noi Bai Intl,Hanoi
 HAO,Butler County Regional,Hamilton
 HAQ,Hanimaadhoo Island,Hanimaadhoo Island
@@ -2929,7 +2929,7 @@ HET,Baita Intl,Hohhot
 HEW,Hengdian,Dongyang
 HEZ,Adams County,Natchez
 HFA,Haifa,Haifa
-HFD,Brainard,Hartford
+HFD,Metropolitan Area,Hartford
 HFE,Xinqiao Intl,Hefei
 HFF,Mackall AAF,Camp Mackall
 HFN,Hofn,Hornafjordur
@@ -2975,7 +2975,7 @@ HJT,Khujirt,Khujirt
 HKA,Municipal,Blytheville
 HKB,Healy Lake,Healy Lake
 HKD,Hakodate,Hakodate
-HKG,International,Hong Kong
+HKG,Metropolitan Area,Hong Kong
 HKK,Hokitika,Hokitika
 HKN,Hoskins,Hoskins
 HKR,Mara North,Maasai Mara
@@ -3089,7 +3089,7 @@ HSN,Putuoshan,Zhoushan
 HSP,Ingalls Field,Hot Springs
 HSS,Hisar,Hisar
 HST,ARB,Homestead
-HSV,Intl-Carl T.Jones Fld,Huntsville
+HSV,Metropolitan Area,Huntsville
 HSZ,Hsinchu,Hsinchu
 HTA,Kadala,Chita
 HTG,Khatanga,Khatanga
@@ -8216,7 +8216,7 @@ VRE,Vredendal,Vredendal
 VRI,Varandey,Varandey
 VRK,Varkaus,Varkaus
 VRL,Vila Real,Vila Real
-VRN,Metropolitan Area,Verona
+VRN,Villafranca,Verona
 VRO,Kawama,Varadero
 VRS,Roy Otten Memorial,Versailles
 VRU,Vryburg,Vryburg
@@ -8295,7 +8295,7 @@ WCH,Nuevo Chaiten,Chaiten
 WCR,Chandalar Lake,Chandalar Lake
 WDA,Wadi Ain,Wadi Ain
 WDG,Woodring Regional,Enid
-WDH,Metropolitan Area,Windhoek
+WDH,Hosea Kutako Intl,Windhoek
 WDI,Wondai,Wondai
 WDN,Waldronaire,Waldron Island
 WDR,Barrow County,Winder
@@ -8606,7 +8606,7 @@ YAU,Donaldson,Kattiniq
 YAV,Miners Bay SPB,Mayne Island
 YAX,Wapekeka,Angling Lake
 YAY,St Anthony,St Anthony
-YAZ,Metropolitan Area,Tofino
+YAZ,Long Beach,Tofino
 YBA,Banff,Banff
 YBB,Kugaaruk,Kugaaruk
 YBC,Baie-Comeau,Baie-Comeau
@@ -8735,7 +8735,7 @@ YHS,Sechelt,Sechelt
 YHT,Haines Junction,Haines Junction
 YHU,St-Hubert,Montreal
 YHY,Merlyn Carter,Hay River
-YHZ,Metropolitan Area,Halifax
+YHZ,Stanfield Intl,Halifax
 YIA,New Yogyakarta Int.,Yogyakarta
 YIB,Municipal,Atikokan
 YIC,Mingyueshan,Yichun (Jiangxi)
@@ -8849,7 +8849,7 @@ YOO,Oshawa,Oshawa
 YOP,Rainbow Lake,Rainbow Lake
 YOS,Billy Bishop Regional,Owen Sound
 YOT,Yotvata,Yotvata
-YOW,Metropolitan Area,Ottawa
+YOW,Macdonald-Cartier Intl,Ottawa
 YPA,Glass Field,Prince Albert
 YPB,Alberni Valley Rgnl,Port Alberni
 YPC,Nora A. Ruben,Paulatuk
