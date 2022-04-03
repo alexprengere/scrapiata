@@ -65,7 +65,7 @@ ACN,International,Ciudad Acuna
 ACP,Sahand,Maragheh
 ACR,Araracuara,Araracuara
 ACS,Achinsk,Achinsk
-ACT,Regional,Waco
+ACT,Metropolitan Area,Waco
 ACU,Achutupo,Achutupo
 ACV,Arcata Apt,Arcata/Eureka
 ACX,Xingyi,Xingyi
@@ -87,7 +87,7 @@ ADM,Municipal,Ardmore
 ADN,Andes,Andes
 ADO,Andamooka,Andamooka
 ADP,Gal Oya,Ampara
-ADQ,Kodiak Airport,Kodiak
+ADQ,Metropolitan Area,Kodiak
 ADR,Robert F. Swinnie,Andrews
 ADS,Addison,Dallas
 ADT,Municipal,Ada
@@ -285,7 +285,7 @@ ANF,Cerro Moreno,Antofagasta
 ANG,Brie-Champniers,Angouleme
 ANI,Aniak,Aniak
 ANJ,Zanaga,Zanaga
-ANK,Etimesgut,Ankara
+ANK,Metropolitan Area,Ankara
 ANL,Andulo,Andulo
 ANM,Antsirabato,Antalaha
 ANN,Annette Island,Annette Island
@@ -337,7 +337,7 @@ APS,Anapolis,Anapolis
 APT,Marion County,Jasper
 APU,Captain Joao Busse,Apucarana
 APV,Apple Valley,Apple Valley
-APW,Faleolo Intl,Apia
+APW,Metropolitan Area,Apia
 APX,Alberto Bertelli,Arapongas
 APY,Alto Parnaiba,Alto Parnaiba
 APZ,Zapala,Zapala
@@ -434,7 +434,7 @@ AUD,Augustus Downs,Augustus Downs
 AUE,Abu Rudeis,Abu Rudeis
 AUF,Branches,Auxerre
 AUG,State,Augusta
-AUH,International,Abu Dhabi
+AUH,Metropolitan Area,Abu Dhabi
 AUI,Aua Island,Aua Island
 AUJ,Ambunti,Ambunti
 AUK,Alakanuk,Alakanuk
@@ -449,7 +449,7 @@ AUS,Austin-Bergstrom Intl,Austin
 AUT,Atauro,Atauro
 AUU,Aurukun,Aurukun
 AUV,Aumo,Aumo
-AUW,Downtown Apt,Wausau
+AUW,Metropolitan Area,Wausau
 AUX,Araguaina,Araguaina
 AUY,Anatom Island,Anatom Island
 AUZ,Municipal,Aurora
@@ -648,7 +648,7 @@ BEP,Bellary,Bellary
 BEQ,Honington RAF,Bury St Edmunds
 BER,Brandenburg,Berlin
 BES,Bretagne,Brest
-BET,Airport,Bethel
+BET,Metropolitan Area,Bethel
 BEU,Bedourie,Bedourie
 BEV,Beersheba,Beersheba
 BEW,Beira,Beira
@@ -789,7 +789,7 @@ BKG,Branson Apt,Branson
 BKH,Barking Sands,Kekaha
 BKI,International,Kota Kinabalu
 BKJ,Baralande,Boke
-BKK,Suvarnabhumi Int'l,Bangkok
+BKK,Metropolitan Area,Bangkok
 BKL,Burke Lakefront,Cleveland
 BKM,Bakelalan,Bakelalan
 BKN,Balkanabat,Balkanabat
@@ -919,7 +919,7 @@ BPL,Alashankou,Bole
 BPM,Begumpet,Hyderabad
 BPN,Sepinggan,Balikpapan
 BPS,Porto Seguro,Porto Seguro
-BPT,Jack Brooks Regional,Beaumont/Port Arthur
+BPT,Metropolitan Area,Beaumont/Port Arthur
 BPX,Bamda/Bangda,Qamdo/Changdu
 BPY,Besalampy,Besalampy
 BQA,Dr. Juan C. Angara,Baler
@@ -1012,6 +1012,7 @@ BTV,International,Burlington
 BTW,Batu Licin,Batu Licin
 BTX,Betoota,Betoota
 BTY,Beatty,Beatty
+BTZ,Betong,Yala
 BUA,Buka,Buka
 BUB,Cram Field,Burwell
 BUC,Burketown,Burketown
@@ -1111,7 +1112,7 @@ BYC,Yacuiba,Yacuiba
 BYD,Al Bayda,Al Bayda
 BYF,Bray,Albert
 BYG,Johnson County,Buffalo
-BYH,Arkansas Intl,Blytheville
+BYH,Metropolitan Area,Blytheville
 BYI,Burley Municipal,Burley/Rupert
 BYJ,International,Beja
 BYK,Bouake,Bouake
