@@ -238,7 +238,7 @@ ALI,International,Alice
 ALJ,Alexander Bay,Alexander Bay
 ALK,Asela,Asela
 ALL,Albenga,Albenga
-ALM,White Sands Regional,Alamogordo
+ALM,Metropolitan Area,Alamogordo
 ALN,St Louis Regional,Alton
 ALO,Regional,Waterloo
 ALP,International,Aleppo
@@ -249,7 +249,7 @@ ALT,Alenquer,Alenquer
 ALU,Alula,Alula
 ALW,Regional,Walla Walla
 ALX,Thomas C Russell Field,Alexander City
-ALY,El Nouzha,Alexandria
+ALY,Metropolitan Area,Alexandria
 ALZ,Sea Plane Base,Alitak
 AMA,Rick Husband Intl,Amarillo
 AMB,Ambilobe,Ambilobe
@@ -285,7 +285,7 @@ ANF,Cerro Moreno,Antofagasta
 ANG,Brie-Champniers,Angouleme
 ANI,Aniak,Aniak
 ANJ,Zanaga,Zanaga
-ANK,Metropolitan Area,Ankara
+ANK,Etimesgut,Ankara
 ANL,Andulo,Andulo
 ANM,Antsirabato,Antalaha
 ANN,Annette Island,Annette Island
@@ -434,7 +434,7 @@ AUD,Augustus Downs,Augustus Downs
 AUE,Abu Rudeis,Abu Rudeis
 AUF,Branches,Auxerre
 AUG,State,Augusta
-AUH,Metropolitan Area,Abu Dhabi
+AUH,International,Abu Dhabi
 AUI,Aua Island,Aua Island
 AUJ,Ambunti,Ambunti
 AUK,Alakanuk,Alakanuk
@@ -635,7 +635,7 @@ BEC,Beech Factory Apt,Wichita
 BED,Laurence G Hanscom Fld,Bedford
 BEE,Beagle Bay,Beagle Bay
 BEF,Bluefields,Bluefields
-BEG,Nikola Tesla,Belgrade
+BEG,Metropolitan Area,Belgrade
 BEH,Southwest Michigan Rgl,Benton Harbor
 BEI,Beica,Beica
 BEJ,Kalimarau,Tanjung Redeb
@@ -789,7 +789,7 @@ BKG,Branson Apt,Branson
 BKH,Barking Sands,Kekaha
 BKI,International,Kota Kinabalu
 BKJ,Baralande,Boke
-BKK,Metropolitan Area,Bangkok
+BKK,Suvarnabhumi Int'l,Bangkok
 BKL,Burke Lakefront,Cleveland
 BKM,Bakelalan,Bakelalan
 BKN,Balkanabat,Balkanabat
@@ -919,7 +919,7 @@ BPL,Alashankou,Bole
 BPM,Begumpet,Hyderabad
 BPN,Sepinggan,Balikpapan
 BPS,Porto Seguro,Porto Seguro
-BPT,Metropolitan Area,Beaumont/Port Arthur
+BPT,Jack Brooks Regional,Beaumont/Port Arthur
 BPX,Bamda/Bangda,Qamdo/Changdu
 BPY,Besalampy,Besalampy
 BQA,Dr. Juan C. Angara,Baler
@@ -1112,7 +1112,7 @@ BYC,Yacuiba,Yacuiba
 BYD,Al Bayda,Al Bayda
 BYF,Bray,Albert
 BYG,Johnson County,Buffalo
-BYH,Metropolitan Area,Blytheville
+BYH,Arkansas Intl,Blytheville
 BYI,Burley Municipal,Burley/Rupert
 BYJ,International,Beja
 BYK,Bouake,Bouake
@@ -1155,7 +1155,7 @@ CAA,El Aguacate,Catacamas
 CAB,Cabinda,Cabinda
 CAC,A.Mendes da Silva,Cascavel
 CAD,Wexford County,Cadillac
-CAE,Metropolitan Area,Columbia
+CAE,Metropolitan Apt,Columbia
 CAF,Carauari,Carauari
 CAG,Elmas,Cagliari
 CAH,Ca Mau,Ca Mau
@@ -1262,7 +1262,7 @@ CEM,Central,Central
 CEN,International,Ciudad Obregon
 CEO,Waku-Kungo,Waku-Kungo
 CEP,Concepcion,Concepcion
-CEQ,Metropolitan Area,Cannes
+CEQ,Mandelieu,Cannes
 CER,Maupertus,Cherbourg
 CES,Cessnock,Cessnock
 CET,Le Pontreau,Cholet
@@ -1397,7 +1397,7 @@ CKY,International,Conakry
 CKZ,Canakkale,Canakkale
 CLA,Comilla,Comilla
 CLD,McClellan-Palomar,San Diego
-CLE,Metropolitan Area,Cleveland
+CLE,Hopkins International,Cleveland
 CLG,Municipal,Coalinga
 CLH,Coolah,Coolah
 CLI,Municipal,Clintonville
@@ -1411,7 +1411,7 @@ CLP,Clarks Point,Clarks Point
 CLQ,Miguel de la Madrid,Colima
 CLR,Cliff Hatfield Mem.,Calipatria
 CLS,Chehalis-Centralia,Chehalis
-CLT,Metropolitan Area,Charlotte
+CLT,Douglas Intl,Charlotte
 CLU,Municipal,Columbus
 CLV,Nelson R. Guimaraes,Caldas Novas
 CLW,Clearwater Air Park,Tampa
@@ -1419,13 +1419,13 @@ CLX,Clorinda,Clorinda
 CLY,Ste Catherine,Calvi
 CLZ,Calabozo,Calabozo
 CMA,Cunnamulla,Cunnamulla
-CMB,Metropolitan Area,Colombo
+CMB,Bandaranaike Intl,Colombo
 CMC,Camocim,Camocim
 CMD,Cootamundra,Cootamundra
 CME,International,Ciudad del Carmen
 CMF,Chambery/Aix-les-Bains,Chambery/Aix-les-Bains
 CMG,International,Corumba
-CMH,Metropolitan Area,Columbus
+CMH,John Glenn Intl,Columbus
 CMI,University of Illinois,Champaign/Urbana
 CMJ,Qimei,Qimei
 CMK,Club Makokola,Club Makokola
@@ -1501,7 +1501,7 @@ CPD,Coober Pedy,Coober Pedy
 CPE,A.Acuna Ongay Intl,Campeche
 CPF,Nglonram,Cepu
 CPG,Carmen de Patagones,Carmen de Patagones
-CPH,Metropolitan Area,Copenhagen
+CPH,Kastrup,Copenhagen
 CPI,Cape Orford,Cape Orford
 CPL,General Navas Pardo,Chaparral
 CPM,Woodley,Compton
@@ -1629,7 +1629,7 @@ CVI,Caleta Olivia,Caleta Olivia
 CVJ,Mariano Matamoros,Cuernavaca
 CVL,Cape Vogel,Cape Vogel
 CVM,Pedro J. Mendez Intl,Ciudad Victoria
-CVN,Metropolitan Area,Clovis
+CVN,Municipal,Clovis
 CVO,Corvallis Municipal,Corvallis/Albany
 CVQ,Carnarvon,Carnarvon
 CVS,Cannon AFB,Clovis
@@ -1763,7 +1763,7 @@ DEH,Municipal,Decorah
 DEI,Denis Island,Denis Island
 DEL,Indira Gandhi Intl,Delhi
 DEM,Dembi Dolo,Dembi Dolo
-DEN,Metropolitan Area,Denver
+DEN,International,Denver
 DEP,Deparijo,Deparijo
 DEQ,Deqing Moganshan Gen.,Huzhou
 DER,Derim,Derim
@@ -1774,7 +1774,7 @@ DEZ,Deir ez Zor,Deir ez Zor
 DFA,Danfeng Shangzhen Gen.,Shangluo
 DFI,Memorial,Defiance
 DFP,Drumduff,Drumduff
-DFW,Metropolitan Area,Dallas
+DFW,Dallas/Ft Worth Intl,Fort Worth
 DGA,Dangriga,Dangriga
 DGC,Degeh Bur,Degeh Bur
 DGD,Dalgaranga Gold Mine,Dalgaranga Gold Mine
@@ -1930,7 +1930,7 @@ DRN,Dirranbandi,Dirranbandi
 DRO,La Plata County,Durango
 DRR,Durrie,Durrie
 DRS,Dresden,Dresden
-DRT,Metropolitan Area,Del Rio
+DRT,International,Del Rio
 DRU,Drummond,Drummond
 DRV,Dharavandhoo Island,Dharavandhoo Island
 DRW,International,Darwin
@@ -1993,7 +1993,7 @@ DWH,David Wayne Hooks Mem.,Houston
 DWO,Diyawanna Oya SPB,Kotte
 DWR,Air Base,Dwyer
 DWS,Morin Dawa Banner,Hulunbuir
-DXB,Metropolitan Area,Dubai
+DXB,International,Dubai
 DXD,Dixie,Dixie
 DXE,Bruce Campbell Field,Madison
 DXR,Municipal,Danbury
@@ -2265,7 +2265,7 @@ EYL,Yelimane,Yelimane
 EYP,El Alcaravan,Yopal
 EYR,Municipal,Yerington
 EYS,Eliye Springs,Eliye Springs
-EYW,Metropolitan Area,Key West
+EYW,International,Key West
 EZE,Ministro Pistarini,Buenos Aires
 EZS,Elazig,Elazig
 EZV,Berezovo,Berezovo
@@ -2284,7 +2284,7 @@ FAO,Airport,Faro
 FAQ,Freida River,Freida River
 FAR,Hector Intl,Fargo
 FAS,Faskrudsfjordur,Faskrudsfjordur
-FAT,Metropolitan Area,Fresno
+FAT,Yosemite Intl,Fresno
 FAU,Fahud,Fahud
 FAV,Fakarava,Fakarava
 FAY,Regional (Grannis Fld),Fayetteville
@@ -2340,7 +2340,7 @@ FHZ,Fakahina,Fakahina
 FID,Elizabeth Field,Fishers Island
 FIE,Fair Isle,Fair Isle
 FIG,Katourou,Fria
-FIH,Metropolitan Area,Kinshasa
+FIH,N'djili Intl,Kinshasa
 FIK,Finke,Finke
 FIL,Municipal,Fillmore
 FIN,Finschhafen,Finschhafen
@@ -2714,7 +2714,7 @@ GOP,Gorakhpur,Gorakhpur
 GOQ,Golmud,Golmud
 GOR,Gore,Gore
 GOS,Gosford,Gosford
-GOT,Metropolitan Area,Goteborg
+GOT,Landvetter,Goteborg
 GOU,International,Garoua
 GOV,Gove,Nhulunbuy
 GOX,Mopa Airport,Goa
@@ -2771,7 +2771,7 @@ GSP,International,Greenville/Spartanburg
 GSQ,International,Shark el-Owainat
 GSR,Gardo,Gardo
 GSS,Sabi Sabi,Sabie
-GST,Metropolitan Area,Gustavus
+GST,Airport,Gustavus
 GSU,Gedaref,Gedaref
 GSV,Gagarin,Saratov
 GTA,Gatokae,Gatokae
@@ -2870,7 +2870,7 @@ HAI,Municipal Dr. Haines,Three Rivers
 HAJ,Airport,Hannover
 HAK,Meilan Intl,Haikou
 HAL,Halali,Halali
-HAM,Metropolitan Area,Hamburg
+HAM,Hamburg Airport,Hamburg
 HAN,Noi Bai Intl,Hanoi
 HAO,Butler County Regional,Hamilton
 HAQ,Hanimaadhoo Island,Hanimaadhoo Island
@@ -2931,7 +2931,7 @@ HET,Baita Intl,Hohhot
 HEW,Hengdian,Dongyang
 HEZ,Adams County,Natchez
 HFA,Haifa,Haifa
-HFD,Metropolitan Area,Hartford
+HFD,Brainard,Hartford
 HFE,Xinqiao Intl,Hefei
 HFF,Mackall AAF,Camp Mackall
 HFN,Hofn,Hornafjordur
@@ -2977,7 +2977,7 @@ HJT,Khujirt,Khujirt
 HKA,Municipal,Blytheville
 HKB,Healy Lake,Healy Lake
 HKD,Hakodate,Hakodate
-HKG,Metropolitan Area,Hong Kong
+HKG,International,Hong Kong
 HKK,Hokitika,Hokitika
 HKN,Hoskins,Hoskins
 HKR,Mara North,Maasai Mara
@@ -3030,7 +3030,7 @@ HNN,Honinabi,Honinabi
 HNS,Haines,Haines
 HNY,Bajialing,Hengyang
 HOA,Hola,Hola
-HOB,Metropolitan Area,Hobbs
+HOB,Lea County Regional,Hobbs
 HOC,Komako,Komako
 HOD,International,Hodeidah
 HOE,Houeisay,Houeisay
@@ -3092,7 +3092,7 @@ HSN,Putuoshan,Zhoushan
 HSP,Ingalls Field,Hot Springs
 HSS,Hisar,Hisar
 HST,ARB,Homestead
-HSV,Metropolitan Area,Huntsville
+HSV,Intl-Carl T.Jones Fld,Huntsville
 HSZ,Hsinchu,Hsinchu
 HTA,Kadala,Chita
 HTG,Khatanga,Khatanga
@@ -3153,7 +3153,7 @@ HXD,Delingha,Delingha
 HXX,Hay,Hay
 HYA,Barnstable Municipal,Hyannis
 HYC,Air Park/Booker,High Wycombe
-HYD,Metropolitan Area,Hyderabad
+HYD,Rajiv Gandhi Int'l,Hyderabad
 HYF,Hayfield,Hayfield
 HYG,Sea Plane Base,Hydaburg
 HYL,Clark Bay SPB,Hollis
@@ -3200,7 +3200,7 @@ ICL,Schenck Field,Clarinda
 ICN,Incheon International,Seoul
 ICO,Sicogon Island,Sicogon Island
 ICS,Cascade,Cascade
-ICT,Metropolitan Area,Wichita
+ICT,Dwight D. Eisenhower,Wichita
 ICY,Icy Bay,Icy Bay
 IDA,Regional,Idaho Falls
 IDB,Idre,Idre
@@ -3218,7 +3218,7 @@ IDY,Ile d'Yeu,Ile d'Yeu
 IEG,Babimost,Zielona Gora
 IEJ,Iejima,Iejima
 IES,Goehlis,Riesa
-IEV,Metropolitan Area,Kyiv
+IEV,Zhuliany Intl,Kyiv
 IFA,Municipal,Iowa Falls
 IFF,Iffley,Iffley
 IFH,Hesa,Hesa
@@ -3376,7 +3376,7 @@ ISO,Regional Jetport,Kinston
 ISP,Long Island MacArthur,Islip
 ISQ,Schoolcraft County,Manistique
 ISS,Wiscasset,Wiscasset
-IST,Metropolitan Area,Istanbul
+IST,Istanbul Airport,Istanbul
 ISU,International,Sulaymaniyah
 ISW,South Wood County,Wisconsin Rapids
 ITA,Itacoatiara,Itacoatiara
@@ -3451,7 +3451,7 @@ JAI,International,Jaipur
 JAK,Jacmel,Jacmel
 JAL,El Lencero,Jalapa
 JAM,Bezmer,Jambol
-JAN,Metropolitan Area,Jackson
+JAN,Medgar W. Evers Intl,Jackson
 JAP,Chacarita,Puntarenas
 JAQ,Jacquinot Bay,Jacquinot Bay
 JAR,Jahrom,Jahrom
@@ -3542,7 +3542,7 @@ JMO,Jomsom,Jomsom
 JMS,Regional,Jamestown
 JMU,Dongjiao,Jiamusi
 JNA,Januaria,Januaria
-JNB,Metropolitan Area,Johannesburg
+JNB,O.R. Tambo Int'l,Johannesburg
 JNG,Qufu,Jining
 JNI,Junin,Junin
 JNJ,Jaaluni,Duqm
@@ -3803,7 +3803,7 @@ KIJ,Niigata,Niigata
 KIK,Air Base,Kirkuk
 KIL,Kilwa,Kilwa
 KIM,Kimberley,Kimberley
-KIN,Metropolitan Area,Kingston
+KIN,Norman Manley Intl,Kingston
 KIO,Kili Island,Kili Island
 KIP,Kickapoo Downtown Apt,Wichita Falls
 KIQ,Kira,Kira
@@ -4032,7 +4032,7 @@ KTJ,Kichwa Tembo,Maasai Mara
 KTK,Kunua,Kunua
 KTL,Kitale,Kitale
 KTM,Tribhuvan Intl,Kathmandu
-KTN,Metropolitan Area,Ketchikan
+KTN,International,Ketchikan
 KTO,Kato,Kato
 KTP,Tinson Pen,Kingston
 KTQ,Kitee,Kitee
@@ -4147,14 +4147,14 @@ LAO,International,Laoag
 LAP,Manuel Marquez de Leon,La Paz
 LAQ,Labraq,Beida
 LAR,Regional,Laramie
-LAS,Metropolitan Area,Las Vegas
+LAS,HARRY REID INTL,Las Vegas
 LAU,Manda,Lamu
 LAW,Regional,Lawton/Fort Sill
 LAX,International,Los Angeles
 LAY,Ladysmith,Ladysmith
 LAZ,Bom Jesus da Lapa,Bom Jesus da Lapa
 LBA,Airport,Leeds/Bradford
-LBB,Metropolitan Area,Lubbock
+LBB,Preston Smith Intl,Lubbock
 LBC,LUEBECK,Hamburg
 LBD,International,Khujand
 LBE,Arnold Palmer Regional,Latrobe
