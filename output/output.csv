@@ -2415,10 +2415,10 @@ FOY,Foya,Foya
 FPO,Grand Bahama Intl,Freeport
 FPR,St Lucie County Intl,Fort Pierce
 FPY,Perry-Foley,Perry
-FRA,Metropolitan Area,Frankfurt
+FRA,International,Frankfurt
 FRB,Forbes,Forbes
 FRC,Tenente Lund Presetto,Franca
-FRD,Metropolitan Area,Friday Harbor
+FRD,Airport,Friday Harbor
 FRE,Fera Island,Fera Island
 FRG,Republic,Farmingdale
 FRH,Municipal,French Lick
@@ -2468,7 +2468,7 @@ FUT,Pointe Vele,Futuna Island
 FVL,Flora Valley,Flora Valley
 FVM,Fuvahmulak Island,Fuvahmulak Island
 FVR,Forrest River Mission,Forrest River Mission
-FWA,Metropolitan Area,Fort Wayne
+FWA,International,Fort Wayne
 FWH,NAS JRB,Fort Worth
 FWL,Farewell,Farewell
 FXE,Executive,Fort Lauderdale
@@ -2479,7 +2479,7 @@ FYM,Municipal,Fayetteville
 FYN,Fuyun,Fuyun
 FYT,Faya-Largeau,Faya-Largeau
 FYU,Fort Yukon,Fort Yukon
-FYV,Metropolitan Area,Fayetteville/Springd.
+FYV,Drake Field,Fayetteville/Springd.
 FZL,FUZULI INTERNATIONAL,Fuzuli
 FZO,Filton,Filton
 GAA,Guamal,Guamal
@@ -2566,7 +2566,7 @@ GEC,Gecitkale,Gecitkale
 GED,Sussex County,Georgetown
 GEE,George Town,George Town
 GEF,Geva,Geva
-GEG,Metropolitan Area,Spokane
+GEG,International,Spokane
 GEL,Sepe Tiaraju,Santo Angelo
 GEM,Mongomeyen,Mongomo
 GEO,Cheddi Jagan Intl,Georgetown
@@ -2641,7 +2641,7 @@ GKL,Great Keppel Island,Great Keppel Island
 GKN,Gulkana,Gulkana
 GKO,Kongo Boumba,Kongo Boumba
 GKT,Gatlinburg,Sevierville
-GLA,Metropolitan Area,Glasgow
+GLA,International,Glasgow
 GLB,San Carlos Apache,Globe
 GLC,Geladi,Geladi
 GLD,Renner Field,Goodland
@@ -2768,7 +2768,7 @@ GSL,Taltheilei Narrows,Taltheilei Narrows
 GSM,Dayrestan,Gheshm Island
 GSN,Mount Gunson,Mount Gunson
 GSO,Piedmont Triad Intl,Greensboro/High Point
-GSP,Metropolitan Area,Greenville/Spartanburg
+GSP,International,Greenville/Spartanburg
 GSQ,International,Shark el-Owainat
 GSR,Gardo,Gardo
 GSS,Sabi Sabi,Sabie
@@ -2777,7 +2777,7 @@ GSU,Gedaref,Gedaref
 GSV,Gagarin,Saratov
 GTA,Gatokae,Gatokae
 GTE,Groote Eylandt,Groote Eylandt
-GTF,Metropolitan Area,Great Falls
+GTF,International,Great Falls
 GTG,Municipal,Grantsburg
 GTI,Guettin,Guettin
 GTN,Glentanner,Mount Cook
@@ -2800,7 +2800,7 @@ GUH,Gunnedah,Gunnedah
 GUI,Guiria,Guiria
 GUJ,Guaratingueta,Guaratingueta
 GUL,Goulburn,Goulburn
-GUM,Metropolitan Area,Guam
+GUM,A.B. Won Pat Intl,Guam
 GUO,Guriel,Guriel
 GUP,Municipal,Gallup
 GUQ,Guanare,Guanare
@@ -2871,11 +2871,11 @@ HAI,Municipal Dr. Haines,Three Rivers
 HAJ,Airport,Hannover
 HAK,Meilan Intl,Haikou
 HAL,Halali,Halali
-HAM,Metropolitan Area,Hamburg
+HAM,Hamburg Airport,Hamburg
 HAN,Noi Bai Intl,Hanoi
 HAO,Butler County Regional,Hamilton
 HAQ,Hanimaadhoo Island,Hanimaadhoo Island
-HAR,Metropolitan Area,Harrisburg
+HAR,Capital City,Harrisburg
 HAS,Hail,Hail
 HAT,Heathlands,Heathlands
 HAU,Karmoy,Haugesund
@@ -2923,7 +2923,7 @@ HEE,Thompson-Robbins,Helena-West Helena
 HEH,Heho,Heho
 HEI,Heide/Buesum,Heide/Buesum
 HEK,Heihe,Heihe
-HEL,Metropolitan Area,Helsinki
+HEL,Helsinki-Vantaa,Helsinki
 HEM,Helsinki-Malmi,Helsinki
 HEO,Haelogo,Haelogo
 HER,Nikos Kazantzakis,Irakleion
@@ -2932,7 +2932,7 @@ HET,Baita Intl,Hohhot
 HEW,Hengdian,Dongyang
 HEZ,Adams County,Natchez
 HFA,Haifa,Haifa
-HFD,Metropolitan Area,Hartford
+HFD,Brainard,Hartford
 HFE,Xinqiao Intl,Hefei
 HFF,Mackall AAF,Camp Mackall
 HFN,Hofn,Hornafjordur
@@ -2978,7 +2978,7 @@ HJT,Khujirt,Khujirt
 HKA,Municipal,Blytheville
 HKB,Healy Lake,Healy Lake
 HKD,Hakodate,Hakodate
-HKG,Metropolitan Area,Hong Kong
+HKG,International,Hong Kong
 HKK,Hokitika,Hokitika
 HKN,Hoskins,Hoskins
 HKR,Mara North,Maasai Mara
@@ -3048,7 +3048,7 @@ HOQ,Plauen,Hof
 HOR,Horta,Horta
 HOS,Chos Malal,Chos Malal
 HOT,Memorial Field,Hot Springs
-HOU,Metropolitan Area,Houston
+HOU,William P. Hobby,Houston
 HOV,Hovden,Orsta/Volda
 HOX,Homalin,Homalin
 HOY,Longhope,Hoy
@@ -3093,7 +3093,7 @@ HSN,Putuoshan,Zhoushan
 HSP,Ingalls Field,Hot Springs
 HSS,Hisar,Hisar
 HST,ARB,Homestead
-HSV,Metropolitan Area,Huntsville
+HSV,Intl-Carl T.Jones Fld,Huntsville
 HSZ,Hsinchu,Hsinchu
 HTA,Kadala,Chita
 HTG,Khatanga,Khatanga
@@ -3154,7 +3154,7 @@ HXD,Delingha,Delingha
 HXX,Hay,Hay
 HYA,Barnstable Municipal,Hyannis
 HYC,Air Park/Booker,High Wycombe
-HYD,Metropolitan Area,Hyderabad
+HYD,Rajiv Gandhi Int'l,Hyderabad
 HYF,Hayfield,Hayfield
 HYG,Sea Plane Base,Hydaburg
 HYL,Clark Bay SPB,Hollis
@@ -3219,7 +3219,7 @@ IDY,Ile d'Yeu,Ile d'Yeu
 IEG,Babimost,Zielona Gora
 IEJ,Iejima,Iejima
 IES,Goehlis,Riesa
-IEV,Metropolitan Area,Kyiv
+IEV,Zhuliany Intl,Kyiv
 IFA,Municipal,Iowa Falls
 IFF,Iffley,Iffley
 IFH,Hesa,Hesa
@@ -3335,7 +3335,7 @@ IPE,Ipil,Ipil
 IPG,Ipiranga,Ipiranga
 IPH,Sultan Azlan Shah,Ipoh
 IPI,San Luis,Ipiales
-IPL,Metropolitan Area,Imperial/El Centro
+IPL,Imperial County,Imperial/El Centro
 IPN,Usiminas,Ipatinga
 IPT,Regional,Williamsport
 IPU,Ipiau,Ipiau
@@ -3363,7 +3363,7 @@ IRU,SPB,Iranamadu
 IRZ,Tapuruquara,Santa Isabel Rio Negro
 ISA,Mount Isa,Mount Isa
 ISB,International,Islamabad
-ISC,Metropolitan Area,Isles of Scilly
+ISC,St Mary's,Isles of Scilly
 ISD,Iscuande,Iscuande
 ISE,Suleyman Demirel,Isparta
 ISG,New Ishigaki,Ishigaki
@@ -3461,7 +3461,7 @@ JAT,Jabot Island,Jabot Island
 JAU,Francisco Carle,Jauja
 JAV,Ilulissat,Ilulissat
 JAW,Araripina,Araripina
-JAX,Metropolitan Area,Jacksonville
+JAX,International,Jacksonville
 JBB,Noto Hadinegoro,Jember
 JBQ,Dr.Joaquin Balaguer,Santo Domingo
 JBR,Municipal,Jonesboro
@@ -3679,7 +3679,7 @@ KCH,International,Kuching
 KCI,Koolan Central,Koolan Island
 KCJ,Komaio,Komaio
 KCK,Kirensk,Kirensk
-KCL,Metropolitan Area,Chignik
+KCL,Chignik Lagoon,Chignik
 KCM,Kahramanmaras,Kahramanmaras
 KCN,Sea Plane Base,Chernofski Harbor
 KCO,Cengiz Topel,Kocaeli
@@ -4054,7 +4054,7 @@ KUF,Kurumoch Int'l,Samara
 KUG,Kubin,Kubin
 KUH,Kushiro,Kushiro
 KUK,Kasigluk,Kasigluk
-KUL,Metropolitan Area,Kuala Lumpur
+KUL,International,Kuala Lumpur
 KUM,Yakushima,Yakushima
 KUN,International,Kaunas
 KUO,Kuopio,Kuopio
@@ -4149,10 +4149,10 @@ LAO,International,Laoag
 LAP,Manuel Marquez de Leon,La Paz
 LAQ,Labraq,Beida
 LAR,Regional,Laramie
-LAS,Metropolitan Area,Las Vegas
+LAS,HARRY REID INTL,Las Vegas
 LAU,Manda,Lamu
 LAW,Regional,Lawton/Fort Sill
-LAX,Metropolitan Area,Los Angeles
+LAX,International,Los Angeles
 LAY,Ladysmith,Ladysmith
 LAZ,Bom Jesus da Lapa,Bom Jesus da Lapa
 LBA,Airport,Leeds/Bradford
@@ -4227,7 +4227,7 @@ LDZ,Londolozi,Londolozi
 LEA,Learmonth,Learmonth
 LEB,Municipal,Lebanon
 LEC,Horacio de Mattos,Lencois
-LED,Metropolitan Area,St Petersburg
+LED,Pulkovo,St Petersburg
 LEE,International,Leesburg
 LEF,Lebakeng,Lebakeng
 LEG,Aleg,Aleg
@@ -4247,7 +4247,7 @@ LET,Alfredo V. Cobb Intl,Leticia
 LEU,Seo de Urgel,Seo de Urgel
 LEV,Bureta,Levuka
 LEW,Municipal,Lewiston/Auburn
-LEX,Metropolitan Area,Lexington
+LEX,Blue Grass,Lexington
 LEY,Lelystad,Lelystad
 LEZ,La Esperanza,La Esperanza
 LFB,Lumbo,Lumbo
@@ -4434,7 +4434,7 @@ LOY,Loyengalani,Loyengalani
 LOZ,Magee Field,London/Corbin
 LPA,Gran Canaria,Gran Canaria
 LPB,El Alto Intl,La Paz
-LPC,Metropolitan Area,Lompoc
+LPC,Lompoc Apt,Lompoc
 LPD,La Pedrera,La Pedrera
 LPE,La Primavera,La Primavera
 LPF,Yue Zhao,Liupanshui
@@ -4528,7 +4528,7 @@ LUG,Agno,Lugano
 LUH,Ludhiana,Ludhiana
 LUI,La Union,La Union
 LUK,Municipal (Lunken Fld),Cincinnati
-LUL,Metropolitan Area,Hattiesburg/Laurel
+LUL,Hesler-Noble Field,Hattiesburg/Laurel
 LUM,Dehong Mangshi,Mangshi
 LUN,International,Lusaka
 LUO,Luena,Luena
@@ -4588,7 +4588,7 @@ LYN,Bron,Lyon
 LYO,Rice County Municipal,Lyons
 LYP,International,Faisalabad
 LYR,Svalbard,Longyearbyen
-LYS,Metropolitan Area,Lyon
+LYS,St-Exupery,Lyon
 LYT,Lady Elliot Island,Lady Elliot Island
 LYU,Municipal,Ely
 LYX,London Ashford,Lydd
@@ -4606,9 +4606,9 @@ LZY,Mainling/Milin,Nyingchi/Linzhi
 MAA,International,Chennai
 MAB,Joao Correa da Rocha,Maraba
 MAC,Downtown Apt,Macon
-MAD,Metropolitan Area,Madrid
+MAD,Adolfo Suarez-Barajas,Madrid
 MAE,Municipal,Madera
-MAF,Metropolitan Area,Midland
+MAF,International,Midland
 MAG,Madang,Madang
 MAH,Menorca,Menorca
 MAI,Mangochi,Mangochi
@@ -4715,7 +4715,7 @@ MEH,Mehamn,Mehamn
 MEI,Regional (Key Field),Meridian
 MEJ,Port Meadville,Meadville
 MEK,Royal AFB,Meknes
-MEL,Metropolitan Area,Melbourne
+MEL,Melbourne Airport,Melbourne
 MEM,International,Memphis
 MEN,Brenoux,Mende
 MEO,Dare County Regional,Manteo
@@ -4727,7 +4727,7 @@ MET,Moreton,Moreton
 MEU,Serra do Areao,Monte Dourado
 MEV,Minden-Tahoe,Minden
 MEW,Mweka,Mweka
-MEX,Metropolitan Area,Mexico City
+MEX,Benito Juarez Intl,Mexico City
 MEY,Meghauli,Meghauli
 MEZ,Messina,Messina
 MFA,Mafia Island,Mafia Island
@@ -4767,12 +4767,12 @@ MGI,National Wildlife Ref.,Matagorda Island
 MGJ,Orange County,Montgomery
 MGK,Mong Ton,Mong Ton
 MGL,Moenchengladbach,Duesseldorf
-MGM,Metropolitan Area,Montgomery
+MGM,Regional-Dannelly Fld,Montgomery
 MGN,Baracoa,Magangue
 MGO,Manega,Manega
 MGP,Manga,Manga
 MGQ,Aden Adde Intl,Mogadishu
-MGR,Metropolitan Area,Moultrie
+MGR,Municipal,Moultrie
 MGS,Auau,Mangaia Island
 MGT,Milingimbi Island,Milingimbi Island
 MGU,Manaung,Manaung
@@ -4805,7 +4805,7 @@ MHW,Monteagudo,Monteagudo
 MHX,Manihiki Atoll,Manihiki Atoll
 MHY,Morehead,Morehead
 MHZ,RAF Station,Mildenhall
-MIA,Metropolitan Area,Miami
+MIA,International,Miami
 MIB,AFB,Minot
 MIC,Crystal,Minneapolis/St Paul
 MID,M. Crescencio Rejon,Merida
@@ -4856,7 +4856,7 @@ MJX,Ocean County,Toms River
 MJZ,Mirny,Mirny
 MKA,Marianske Lazne,Marianske Lazne
 MKB,Mekambo,Mekambo
-MKC,Metropolitan Area,Kansas City
+MKC,C.B. Wheeler Downtown,Kansas City
 MKE,Metropolitan Area,Milwaukee
 MKG,Muskegon County,Muskegon
 MKH,Mokhotlong,Mokhotlong
@@ -4939,7 +4939,7 @@ MNH,Musanaa,Musanaa
 MNI,John A. Osborne,Montserrat
 MNJ,Mananjary,Mananjary
 MNK,Maiana,Maiana
-MNL,Metropolitan Area,Manila
+MNL,Ninoy Aquino Intl,Manila
 MNM,Menominee-Marinette,Menominee
 MNN,Municipal,Marion
 MNO,Manono,Manono
@@ -5052,7 +5052,7 @@ MRU,Sir S. Ramgoolam Intl,Mauritius
 MRV,Mineralnye Vody,Mineralnye Vody
 MRW,Lolland Falster,Maribo
 MRX,Mahshahr,Bandar Mahshahr
-MRY,Metropolitan Area,Monterey/Carmel
+MRY,Monterey Regional,Monterey/Carmel
 MRZ,Moree,Moree
 MSA,Muskrat Dam,Muskrat Dam
 MSC,Falcon Field,Phoenix
@@ -5068,7 +5068,7 @@ MSL,Northwest Alabama Rgnl,Muscle Shoals/Florence
 MSM,Masi-Manimba,Masi-Manimba
 MSN,Dane County Regional,Madison
 MSO,International,Missoula
-MSP,Metropolitan Area,Minneapolis/St Paul
+MSP,International,Minneapolis/St Paul
 MSQ,Metropolitan Area,Minsk
 MSR,Mus,Mus
 MSS,International,Massena
@@ -5077,7 +5077,7 @@ MSU,Moshoeshoe I Intl,Maseru
 MSV,Sullivan County Intl,Monticello
 MSW,International,Massawa
 MSX,Mossendjo,Mossendjo
-MSY,Metropolitan Area,New Orleans
+MSY,Louis Armstrong Intl,New Orleans
 MSZ,Yuri Gagarin,Namibe
 MTA,Matamata,Matamata
 MTB,Montelibano,Montelibano
